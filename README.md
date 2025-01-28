@@ -1,4 +1,4 @@
 # skills-intro-to-git
 Intro to Git
 
-changes
+new changes
